@@ -1,0 +1,25 @@
+
+
+   
+#myLabel{
+    font-size: 100px;
+    font-weight: bold;
+    color: red;
+    border-style: outset;
+    border-width: 20px;
+    padding: 5px;
+    border-color: gray;
+    background-color: black;
+   
+
+    
+    
+}
+#box{
+    margin-right: auto;
+    margin-left: auto;
+   
+    text-align: center;
+    margin-top: 23%;
+    
+}
